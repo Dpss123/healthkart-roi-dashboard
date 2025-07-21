@@ -9,11 +9,11 @@ This dashboard provides actionable insights into **campaign performance, influen
 
 ##  Objectives
 
-✔ Track influencer and post performance  
-✔ Measure **ROI & Incremental ROAS (Return on Ad Spend)**  
-✔ Identify **top-performing influencers** & **low-ROI campaigns**  
-✔ Provide **payout tracking** & **brand/product-wise filtering**  
-✔ Export insights as **CSV** and **PDF reports**
+Track influencer and post performance  
+Measure **ROI & Incremental ROAS (Return on Ad Spend)**  
+Identify **top-performing influencers** & **low-ROI campaigns**  
+Provide **payout tracking** & **brand/product-wise filtering**  
+Export insights as **CSV** and **PDF reports**
 
 ##  Data Modeling
 
